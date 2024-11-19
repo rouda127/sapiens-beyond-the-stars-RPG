@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{5BB2FA0E-CC40-9F1C-58FA-20BC1C178BF8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Boat.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ImageButtonBehaviour.cs" Line="23" Column="37" />
+      <File FileName="Assets/Scripts/CharacterSelection/NextScene.cs" />
+      <File FileName="Assets/Scripts/DoorOpen.cs" />
+      <File FileName="Assets/Scripts/LevelSelector.cs" />
+      <File FileName="Assets/Scripts/Boat.cs" Line="12" Column="54" />
+      <File FileName="Assets/Scripts/Level3Health/Level3Respawn.cs" />
+      <File FileName="Assets/Scripts/Level3Health/Level3Health.cs" />
+      <File FileName="Assets/Scripts/Lvl2UIManager.cs" />
+      <File FileName="Assets/Scripts/CameraController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2250 Final Project" expanded="True" selected="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="CharacterSelection" expanded="True" />
+                <Node name="DialogueScripts" expanded="True" />
+                <Node name="Level3Health" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2b571ed2-9fe7-4bf7-ae33-bf3e8841daa1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
